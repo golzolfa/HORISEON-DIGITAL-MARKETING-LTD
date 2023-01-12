@@ -29,7 +29,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Class Selectors */
+/* Class Selectors -Changed By Golnaz Zolfaghari */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,12 +38,12 @@ body {
     font-size: 20px;
 }
 
-/* Class Selectors */
+/* Class Selectors -Changed By Golnaz Zolfaghari */
 .header nav ul {
     list-style-type: none;
 }
 
-/* Class Selectors */
+/* Class Selectors -Changed By Golnaz Zolfaghari */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -88,6 +88,15 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Class Selectors:Added By Golnaz Zolfaghari */
+.content section {
+    padding-bottom: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
 
 /* Class Selectors */
 .benefits {
