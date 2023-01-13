@@ -2,7 +2,7 @@
 
 ## Description
 
-I worked on existing code and refactor it and make it more accessible.improve it without changing what it does.
+I worked on existing code and refactor it and make it more accessible also I improveed it without changing what it does.
 
 ## Installation
 N/A
