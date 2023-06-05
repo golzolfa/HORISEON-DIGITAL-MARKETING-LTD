@@ -2,7 +2,7 @@
 
 ## Description
 
-I worked on existing code and refactor it and make it more accessible also I improveed it without changing what it does.
+I worked on existing code and refactor it and make it more accessible also I improveed it without changing what it does(adapting existing applications to comply with the Accessibility for Ontarians with Disabilities Act (AODA))
 
 ## Installation
 N/A
